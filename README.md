@@ -1,6 +1,11 @@
 # redmine-kanboard-migrator
 하도 갑갑해서 내가 쓸라고 만듦
 
+# Getting Started
+- 알아서 pip 의존성 설치
+  - redmine API 파이썬 구현체: https://python-redmine.com/index.html
+  - kanboard API 파이썬 구현체: https://github.com/kanboard/python-api-client
+
 # Kanboard?
 https://kanboard.org/
 
